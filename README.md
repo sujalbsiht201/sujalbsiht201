@@ -21,7 +21,7 @@ I'm working on a **React** and exploring **Machine Learning** with Python.
 
 | **GitHub Stats**           | **Languages** |
 |----------------------------|-------------------|
-| ![Sujal Bisht GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalbisht201&show_icons=true&count_private=true&hide=prs&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalbisht&layout=compact) |
+| ![Sujal Bisht GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalbsiht201&show_icons=true&count_private=true&hide=prs&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalbsiht&layout=compact) |
 
 
 
